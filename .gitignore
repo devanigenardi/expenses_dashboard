@@ -1,0 +1,80 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Mac system files
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Build directories
+build/
+dist/
+
+# Cache directories
+.cache/
+node_modules/.cache/
+node_modules/.cache/default-development/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Parcel cache
+.parcel-cache/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build / generate output
+.nuxt/
+dist/
+
+# SvelteKit build
+.svelte-kit/
+
+# Gatsby files
+.cache/
+public/
+
+# Temporary files
+tmp/
+temp/
+
+# Storybook files
+.out/
+storybook-static/
+
+# Miscellaneous
+.vscode/
+*.sublime-workspace

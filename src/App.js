@@ -178,7 +178,7 @@ function App() {
 
           {activeTrip && (
             <>
-              <Button className="add-row" onClick={addRowToActiveTrip}>Agregar gastos</Button>
+              <Button className="add-row" onClick={addRowToActiveTrip}>Agregar gastos $</Button>
               <div className="dashboard-entries">
                 {activeTrip.entries.map(entry => (
                   <div key={entry.id} className="entry-row">
