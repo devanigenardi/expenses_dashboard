@@ -37,6 +37,18 @@
   }
 }
 
+.trip-tab {
+  border-radius: 5px!important;
+}
+
+.trip-tab button {
+  border-radius: 0!important;
+}
+
+.trip-tab button:nth-child(2) {
+  background-color: purple!important;
+}
+
 .tabs {
   gap: 1rem;
   display: flex;
