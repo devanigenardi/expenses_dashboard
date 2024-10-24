@@ -84,6 +84,7 @@
 
 .remove-row {
   background-color: red!important;
+  line-height: 14px!important;
 }
 
 
@@ -140,6 +141,8 @@ button {
 
   .remove-row {
     margin-bottom: 2rem !important;
+    padding-bottom: 5px !important;
+    line-height: 25px !important;
 }
 
   .add-row {
